@@ -27,6 +27,7 @@
 * Matcher in JUnit
 * Umgang mit bestehendem Code
 * Testen auf der grünen Wiese
+
 ### Refactoring
 * Was Refactoring ist
 * Warum sollten wir Refactorings verwenden
