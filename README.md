@@ -33,3 +33,21 @@
 * Warum sollten wir Refactorings verwenden
 * Wann sollten wir Refactorings verwenden
 * Wann wird Refactoring schwierig
+
+## 18.10.2016
+### Refactoring
+* Auswirkungen auf das Design
+* Code Smells
+ * Duplicated Code
+ * Long Method
+ * Large Class
+ * Shotgun Surgery
+ * Switch Statements
+ * Code Comments
+* Refactorings
+ * Extract Method
+ * Rename Method
+ * Replace Temp with Query
+ * Replace Conditional with Polymorphism
+ * Replace ErrorCode with Exception
+ * Replace Inheritance with Delegation
