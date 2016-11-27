@@ -51,3 +51,16 @@
  * Replace Conditional with Polymorphism
  * Replace ErrorCode with Exception
  * Replace Inheritance with Delegation
+
+## 22.11.2016
+### GUI Blooper
+* Häufiges Vorgehen in der UI Entwicklung
+* GUI Blooper
+ * Durch Blooper verursachte Probleme
+ * Gründe für Blooper
+ * Arten von Bloopern
+ * GUI Komponenten
+ * Navigation
+ * Text
+ * Design und Layout
+ * Anfang von Interaktion
