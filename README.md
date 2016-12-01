@@ -64,3 +64,21 @@
  * Text
  * Design und Layout
  * Anfang von Interaktion
+
+## 29.11.2016
+### GUI Blooper
+* GUI Blooper
+ * Interaktion
+ * Management
+ * Antwortverhalten
+
+### UI Entwicklung
+* Definition von Usability
+* User Centered Design Process
+* Analyse
+ * Informationen zum Benutzer
+ * Mentales Modell
+  * Objekt Aktions Analyse
+  * Lexikon
+  * Szenarios
+
