@@ -5,20 +5,20 @@
 * Testarten
 * Was ist eine Komponente
 * xUnit Testframework
- * Aufbau eines Tests
- * JUnit
- * Überprüfungen 
- * Exceptions und Spezialfälle
+  * Aufbau eines Tests
+  * JUnit
+  * Überprüfungen 
+  * Exceptions und Spezialfälle
 * Ergebnis eines Tests
 * Eigenschaften guter Tests - ATRIP
- * Automatic
- * Thorough
- * Repeatable
- * Independent
- * Professional
+  * Automatic
+  * Thorough
+  * Repeatable
+  * Independent
+  * Professional
 * Mock Objekte
- * Verhalten im Test
- * Schwierigkeiten
+  * Verhalten im Test
+  * Schwierigkeiten
 * Code Coverage
 
 ## 11.10.2016
@@ -38,68 +38,68 @@
 ### Refactoring
 * Auswirkungen auf das Design
 * Code Smells
- * Duplicated Code
- * Long Method
- * Large Class
- * Shotgun Surgery
- * Switch Statements
- * Code Comments
+  * Duplicated Code
+  * Long Method
+  * Large Class
+  * Shotgun Surgery
+  * Switch Statements
+  * Code Comments
 * Refactorings
- * Extract Method
- * Rename Method
- * Replace Temp with Query
- * Replace Conditional with Polymorphism
- * Replace ErrorCode with Exception
- * Replace Inheritance with Delegation
+  * Extract Method
+  * Rename Method
+  * Replace Temp with Query
+  * Replace Conditional with Polymorphism
+  * Replace ErrorCode with Exception
+  * Replace Inheritance with Delegation
 
 ## 22.11.2016
 ### GUI Blooper
 * Häufiges Vorgehen in der UI Entwicklung
 * GUI Blooper
- * Durch Blooper verursachte Probleme
- * Gründe für Blooper
- * Arten von Bloopern
- * GUI Komponenten
- * Navigation
- * Text
- * Design und Layout
- * Anfang von Interaktion
+  * Durch Blooper verursachte Probleme
+  * Gründe für Blooper
+  * Arten von Bloopern
+  * GUI Komponenten
+  * Navigation
+  * Text
+  * Design und Layout
+  * Anfang von Interaktion
 
 ## 29.11.2016
 ### GUI Blooper
 * GUI Blooper
- * Interaktion
- * Management
- * Antwortverhalten
+  * Interaktion
+  * Management
+  * Antwortverhalten
 
 ### UI Entwicklung
 * Definition von Usability
 * User Centered Design Process
 * Analyse
- * Informationen zum Benutzer
- * Mentales Modell
-  * Objekt Aktions Analyse
-  * Lexikon
-  * Szenarios
+  * Informationen zum Benutzer
+  * Mentales Modell
+    * Objekt Aktions Analyse
+    * Lexikon
+    * Szenarios
 
 ## 06.12.2016
 ### UI Entwicklung
 * Design
- * Umfang der Software
- * Anzahl Features vs. Komplexität
- * Gestalt Prinzipien
+  * Umfang der Software
+  * Anzahl Features vs. Komplexität
+  * Gestalt Prinzipien
 
 ### Usability Evaluation
 * Review durch Experten
- * Evaluationsregeln
- * Evaluationsarten
+  * Evaluationsregeln
+  * Evaluationsarten
 * Usability Test
- * Testarten
- * Vorbereitung
- * Einführung
- * Durchführung
-  * Testutensilien
-  * Räumlichkeiten
-  * Remotetest
-  * Auswahlkriterien
- * Evaluation
+  * Testarten
+  * Vorbereitung
+  * Einführung
+  * Durchführung
+    * Testutensilien
+    * Räumlichkeiten
+    * Remotetest
+    * Auswahlkriterien
+  * Evaluation
