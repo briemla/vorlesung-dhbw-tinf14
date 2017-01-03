@@ -82,3 +82,24 @@
   * Lexikon
   * Szenarios
 
+## 06.12.2016
+### UI Entwicklung
+* Design
+ * Umfang der Software
+ * Anzahl Features vs. Komplexität
+ * Gestalt Prinzipien
+
+### Usability Evaluation
+* Review durch Experten
+ * Evaluationsregeln
+ * Evaluationsarten
+* Usability Test
+ * Testarten
+ * Vorbereitung
+ * Einführung
+ * Durchführung
+  * Testutensilien
+  * Räumlichkeiten
+  * Remotetest
+  * Auswahlkriterien
+ * Evaluation
