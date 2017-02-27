@@ -103,3 +103,31 @@
     * Remotetest
     * Auswahlkriterien
   * Evaluation
+
+## 13.02.2017
+### Programmier Prinzipien
+* SOLID
+  * Single Responsibility Principle
+  * Open Closed Principle
+  * Liskov Substitution Principle
+  * Interface Segregation Principle
+  * Dependency Inversion Principle
+* Tell don't ask
+* KISS
+* SLAP
+
+## 14.02.2017
+### Programmier Prinzipien
+* GRASP
+  * Low Coupling
+  * High Cohesion
+  * Information Expert
+  * Creator
+  * Indirection
+  * Polymorphism
+  * Controller
+  * Pure Fabrication
+  * Protected Variations
+* DRY
+* YAGNI
+* Conway's Law
