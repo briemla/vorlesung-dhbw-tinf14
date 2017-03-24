@@ -131,3 +131,13 @@
 * DRY
 * YAGNI
 * Conway's Law
+
+## 21.03.2017
+### Entwurfsmuster
+* Entwurfsmuster
+  * Nutzen von Entwurfsmustern
+  * Erzeugungsmuster
+  * Strukturmuster
+  * Verhaltensmuster
+* Erbauer
+* Kompositum
