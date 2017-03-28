@@ -141,3 +141,16 @@
   * Verhaltensmuster
 * Erbauer
 * Kompositum
+
+## 28.03.2017
+### Entwurfsmuster
+* Dekorierer
+* Beobachter
+
+### Gui Coding
+* Gestaltungsprinzipien
+* Testen von Benutzeroberflächen
+  * Manuelles Testen
+  * Record und Replay
+  * Skriptbasiertes Testen
+  * Automatisiertes Testen
