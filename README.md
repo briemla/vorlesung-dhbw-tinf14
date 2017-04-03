@@ -1,3 +1,6 @@
+# Folien zu Continuous Delivery und DevOps
+https://github.com/briemla/vorlesung-se2-dhbw/tree/master/beine/2016
+
 # vorlesung-dhbw-tinf14
 ## 04.10.2016
 ### (Unit) Testing
